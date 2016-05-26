@@ -1,0 +1,22 @@
+{
+  "name": "react-native-mqttjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanpmt/react-native-mqttjs.git"
+  },
+  "author": "Tuan PM <tuanpm@live.com> (http://tuanpm.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanpmt/react-native-mqttjs/issues"
+  },
+  "homepage": "https://github.com/tuanpmt/react-native-mqttjs#readme",
+  "dependencies": {
+    
+  }
+}
