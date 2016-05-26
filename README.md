@@ -2,13 +2,19 @@
 
 ## Features
 
+This is 100% Pure javascript Websocket MQTT client library without any dependencies for [react-native](https://facebook.github.io/react-native), use original react-native Websocket, port from: [MQTT client library for Contiki](https://github.com/esar/contiki-mqtt) - Prefer for any IoT Mobile applications using react-native
+
+Support subscribing, publishing, authentication, will messages, keep alive pings and all 3 QoS levels (it should be a fully functional client).
+
+Sampe as [esp_mqtt for ESP8266 chip](https://github.com/tuanpmt/esp_mqtt) and should replace for [react-native-mqtt](https://github.com/tuanpmt/react-native-mqtt)
+
 ## Install
 
 `npm i react-native-mqttjs --save`
 
 ## Basic usage
 
-```
+```javascript
 import { MqttClient } from 'react-native-mqttjs';
 
 var mqtt = new MqttClient();
