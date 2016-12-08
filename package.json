@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tuanpmt/react-native-mqttjs.git"
+    "url": "https://github.com/tuanpmt/react-native-mqttjs.git"
   },
   "author": "Tuan PM <tuanpm@live.com> (http://tuanpm.net)",
   "license": "ISC",
