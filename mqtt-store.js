@@ -7,7 +7,7 @@
 
 'use strict';
 
-import EventEmitter from 'EventEmitter';
+import {DeviceEventEmitter as EventEmitter} from 'react-native';
 
 class Store extends EventEmitter {
   constructor() {
