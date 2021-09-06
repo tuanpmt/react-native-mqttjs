@@ -7,7 +7,7 @@
 
 'use strict';
 
-import { EventEmitter } from 'events';
+import { DeviceEventEmitter as EventEmitter } from 'react-native';
 import Store from './mqtt-store';
 import { 
   mqtt_msg_type,
