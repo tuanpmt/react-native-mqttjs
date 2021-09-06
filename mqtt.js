@@ -7,7 +7,7 @@
 
 'use strict';
 
-import EventEmitter from 'EventEmitter';
+import { EventEmitter } from 'events';
 import Store from './mqtt-store';
 import { 
   mqtt_msg_type,
